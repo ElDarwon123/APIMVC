@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "656a4626d224201a287a43a9"
+  },
+  "name": "GTA V",
+  "price": "100000",
+  "image": "https://construct-static.com/uploads/199707/f98dadfc-0189-4e25-ad06-3c610017f560/c/1718055058/gta-v-green-4.png",
+  "description": "Grand Theft Auto V es un videojuego de acción-aventura de mundo abierto en tercera persona desarrollado por el estudio escocés Rockstar North y distribuido por Rockstar Games.",
+  "developer": {
+    "_id": {
+      "$oid": "656a2c6cd224201a287a4397"
+    },
+    "name": "RockStar Games"
+  }
+},
+{
+  "_id": {
+    "$oid": "656a4662d224201a287a43aa"
+  },
+  "name": "GTA VI",
+  "image": "https://styles.redditmedia.com/t5_4p5rua/styles/communityIcon_quaqrtfmpq871.png",
+  "price": 150000,
+  "description": "Grand Theft Auto VI es un próximo videojuego que está desarrollado por Rockstar Games. Será la octava entrega principal de dicha serie, tras Grand Theft Auto V de 2013, y la decimosexta en total. Tras años de especulaciones y filtraciones, Rockstar confirmó que el juego estaba en desarrollo en febrero de 2022",
+  "developer": {
+    "_id": {
+      "$oid": "656a2c6cd224201a287a4397"
+    },
+    "name": "RockStar Games"
+  }
+},
+{
+  "_id": {
+    "$oid": "656a47edd224201a287a43ad"
+  },
+  "name": "Call of DUty Black Ops II",
+  "price": 200000,
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/05/Call_of_Duty_Black_Ops_II_box_artwork.png",
+  "description": "Call of Duty: Black Ops II es un videojuego de disparos en primera persona desarrollado por Treyarch y distribuido por Activision en 2012. ",
+  "developer": {
+    "_id": {
+      "$oid": "656a4746d224201a287a43ac"
+    },
+    "name": "Activision"
+  }
+},
+{
+  "_id": {
+    "$oid": "656a4af0d224201a287a43ae"
+  },
+  "name": "Left 4 Dead",
+  "price": 20000,
+  "image": "https://www.tonica.la/__export/1612025707743/sites/debate/img/2021/01/30/left-4-dead-2-llega-a-alemania.jpg_423682103.jpg",
+  "description": "Left 4 Dead es una serie de videojuegos cooperativos de terror y supervivencia de disparos en primera persona publicados por Valve.",
+  "developer": {
+    "_id": {
+      "$oid": "656a2c6cd224201a287a4399"
+    },
+    "name": "Valve"
+  }
+},
+{
+  "_id": {
+    "$oid": "656a6120d224201a287a43b0"
+  },
+  "name": "Minecraft",
+  "price": 150000,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Userbox_creeper.svg/320px-Userbox_creeper.svg.png",
+  "description": "Minecraft es un videojuego de construcción de tipo «mundo abierto» o en inglés sandbox creado originalmente por el sueco Markus Persson, que creo posteriormente Mojang Studios",
+  "developer": {
+    "_id": {
+      "$oid": "656a2c6cd224201a287a4398"
+    },
+    "name": "Mojang"
+  }
+}]
