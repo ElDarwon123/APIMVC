@@ -1,7 +1,7 @@
 import mongoose, {Schema} from "mongoose"
 
 
-let DeveloperSchema = new mongoose.Schema ({
+let DeveloperSchema = new mongoose.Schema({
     name: String,
     image: String,
     email: String

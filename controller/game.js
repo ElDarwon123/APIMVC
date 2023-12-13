@@ -11,10 +11,11 @@ export const getAllGames=async(req,res)=>{
 
 export const postGames=async(req, res)=>{
     try {
-        const {name, image, description, brand}= req.body
+        const {name, price,image,description, brand}= req.body
 
         const newGame= new GamesSchema({
             name,
+            price,
             image,
             description,
             brand
